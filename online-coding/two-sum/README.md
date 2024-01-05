@@ -1,5 +1,7 @@
 ## Задача Two Sum
 
-https://leetcode.com/problems/two-sum/
-
 Решение с использованием HashMap за один проход
+
+Условие задачи: https://leetcode.com/problems/two-sum/
+
+Разбор решения: https://youtu.be/DSqAL14hmqM
